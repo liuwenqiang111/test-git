@@ -10,6 +10,7 @@ public class TestGitApplication {
         SpringApplication.run(TestGitApplication.class, args);
         System.out.println("2.0");
         System.out.println("3.0");
+        System.out.println("4.0");
     }
 
 
