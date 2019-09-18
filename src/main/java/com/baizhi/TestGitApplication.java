@@ -12,6 +12,7 @@ public class TestGitApplication {
         System.out.println("3.0");
         System.out.println("4.0");
         System.out.println("5.0");
+        System.out.println("6.0");
     }
 
 
